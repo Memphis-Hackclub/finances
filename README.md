@@ -21,7 +21,7 @@ Memphis Hackclub is a hackclub for Memphis Tennesee and the surrounding area. We
 Memphis HackClub is non-profit backed organization, meaning we have a bank account with Hack Club Bank. Hack Club Bank handles our accounting in exchange fot 7% of all donations. Donating to Memphis HackClub is tax deductable. All of our transactions are open for anyone to view on [money.memphishack.com](https://money.memphishack.com). You can donate to Memphis Hackclub on [donate.memphishack.com](https://donate.memphishack.com). Donations are tax deductable; merch sales are not tax deductable.
 
 # How-Merch-Sales-Work
-Because Hack Club bank currently does not have functionality to integrate an online payment system from our website to our bank account, we use paypal. The [PayPal](https://www.paypal.com/paypalme/memphishackclub) is under Philip Pounds (co-leader, and co-founder Memphis HackClub) and all merch production costs of merch are paid out of this account. All profits are paid directly into the Memphis HackClub Bank account. Philip Pounds nor anyone else in HackClub are paid for thier work or for sales.
+Because Hack Club bank currently does not have functionality to integrate an online payment system from our website to our bank account, we use paypal. The [PayPal](https://www.paypal.com/paypalme/memphishackclub) is under Philip Pounds (co-leader, and co-founder Memphis HackClub) and all merch production costs of merch are paid out of this account. All profits are paid directly into the Memphis HackClub Bank account. Philip Pounds nor anyone else in HackClub are paid any money from this PayPal account.
 
 # If you are new join us! Its 100% Free
 http://memphishack.com

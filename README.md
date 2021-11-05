@@ -9,7 +9,7 @@ Build In | Contributors | Live version
 # Quick navigation
 [What is Memphis HackClub](#Memphis-Hackclub)  
 [Finances](#Finances)  
-[How-Merch-Sales-Work](#How Merch Sales Work)  
+[How-Merch-Sales-Work](#How-Merch-Sales-Work)  
  
 
 
